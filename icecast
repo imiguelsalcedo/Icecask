@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Adapted by: Miguel Salcedo <Miguel Salcedo at hotmail dot com>
+# Adapted by: Miguel Salcedo <imiguelsalcedo at hotmail dot com>
 # To complement IcecastKH-autoinstaller.
 # icecast This shell script takes care of starting and stopping
 # the icecast multimedia streaming system.
